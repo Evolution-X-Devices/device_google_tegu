@@ -1,0 +1,16 @@
+[
+  {
+    "repository": "device_google_zumapro",
+    "target_path": "device/google/zumapro"
+  },
+  {
+    "remote": "evo-tensor",
+    "repository": "device_google_tegu-kernels_evolution",
+    "target_path": "device/google/tegu-kernels/evolution"
+  },
+  {
+    "remote": "evo-tensor",
+    "repository": "vendor_google_tegu",
+    "target_path": "vendor/google/tegu"
+  }
+]
